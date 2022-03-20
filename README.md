@@ -1,6 +1,6 @@
-#whzOS
-##更新日志
-###Update log
+# whzOS
+## 更新日志
+### Update log
 - 1.0.0：提供了两个版本
   1. 计时器（09g）
   2. 基础内核（05dnew）
