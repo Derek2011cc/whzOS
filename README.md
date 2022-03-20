@@ -1,3 +1,3 @@
 # whzOS
 ![](/p/OS.png)
-##whzos
+## whzos
