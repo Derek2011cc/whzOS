@@ -1,2 +1,2 @@
 # whzOS
-![](/picture/whz's OS.png)
+![] (/picture/whz's OS.png)
