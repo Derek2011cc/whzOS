@@ -1,14 +1,9 @@
 # whzOS
 ## 更新日志
 ### Update log
-目前提供了两个版本
-  1. 计时器（09g）
-  2. 基础内核（05dnew）
 
-Two versions are currently available
-  1. Timer (09g)
-  2. Basic kernel (05dnew)
-
+- 1.0.0
+  提供了计时器功能
 
 此系统是根据30天自制操作系统改进
 This system is improved according to the 30 day self-made operating system
